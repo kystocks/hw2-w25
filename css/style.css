@@ -57,6 +57,10 @@ div {
   color: #C4C4C4;
 }
 
+.blue h2 {
+  color: #C4C4C4;
+}
+
 .yellow {
   background-color: #FFFF00;
   text-align: right;
@@ -72,6 +76,7 @@ div {
   margin-right: 50px;
   border-right: 5px solid #FFFFFF;
   border-top: 2px solid #FFFFFF;
+  color: #474747
 }
 
 footer {
